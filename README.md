@@ -15,7 +15,7 @@ com.dicoding.activity.DetailActivity. Umumnya intent ini digunakan untuk
 mengaktifkan komponen pada satu aplikasi.
 </p>
 <h1>Explicit Intent</h1>
-<br>
-![IntentEx (2)](https://user-images.githubusercontent.com/80508180/137133405-f5aa22e2-b509-4c46-be2c-ccdc3b8f886c.jpeg)
+
+![IntentEx (2)](https://user-images.githubusercontent.com/80508180/137133405-f5aa22e2-b509-4c46-be2c-ccdc3b8f886c.jpeg)<br>
 ![IntentEx](https://user-images.githubusercontent.com/80508180/137133414-1b1d8686-dd1d-4543-8068-444c74858a37.jpeg)
 
